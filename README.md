@@ -8,7 +8,7 @@ Integrantes da equipe
 - Izadora de Almeida Oliveira.
 
 Descrição do jogo
-- O jogo **Zero ou Um** é um jogo simples e é possivel que vc jogue com seus amigos. Cada jogador digita secretamente um número: **0** ou **1**. Após todos escolherem, os valores são revelados no console junto com o jogador vencedor.  
+- O jogo **Zero ou Um** é um jogo simples e é possivel que vc jogue com seus amigos. Cada jogador digita secretamente um número: **0** ou **1**. Após todos escolherem, os valores são revelados no console junto com o jogador vencedor. Caso a partida dê empate, o jogo reiniciará, dando, assim, mais uma chance para os jogadores.
 
 Como executar o projeto
 1. Abra o arquivo "TCPserver".
